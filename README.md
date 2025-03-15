@@ -4,6 +4,8 @@
 
 I'm Richard, a passionate bilingual developer exploring various fields in computer science. I love building innovative solutions and exploring new technologies to solve real-world problems.
 
+Most of the projects (and the repos I own on GitHub) are things I do for fun, or some cool ideas I came up with. Sometimes I also build APIs and developer tools, and very occasionally I will try to research new things - however, both of these usually come back to aid me in developing more fun stuff!
+
 ## 🛠 Tech Stack
 
 - **Frontend:** React, H5, CSS
@@ -23,7 +25,7 @@ I'm Richard, a passionate bilingual developer exploring various fields in comput
 
 ## 📫 Get in Touch
 
-- 🌍 Usually, [my website and portfolio](https://richard-su.github.io/) is where you can find out more about me
+- 🌍 Usually, [my website and portfolio](https://richard-su.github.io/) is where you can find out more about me and my projects
 - 🐦 I occasionally post about my life on [my Instagram](https://www.instagram.com/plane_paper_rick/)
 - 💼 For professional contact and detailed information, you can check out [my LinkedIn](https://www.linkedin.com/in/ruiquansu)
 - 📧 Finally, you can also just reach me at my university email: [r38su@Wuwaterloo.ca](mailto:r38su@uwaterloo.ca)
