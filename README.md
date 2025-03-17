@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-I'm Richard, a passionate bilingual developer exploring various fields in computer science. I love building innovative solutions and exploring new technologies to solve real-world problems.
+I'm Richard, a passionate bi(tri?)lingual developer exploring various fields in computer science. I love building innovative solutions and exploring new technologies to solve real-world problems.
 
 Most of the projects (and the repos I own on GitHub) are things I do for fun, or some cool ideas I came up with. Sometimes I also build APIs and developer tools, and very occasionally I will try to research new things - however, both of these usually come back to aid me in developing more fun stuff!
 
@@ -34,7 +34,9 @@ Most of the projects (and the repos I own on GitHub) are things I do for fun, or
 
 - 💡 Currently considering porting all of my websites onto different hosts with React and a better backend messaging system support... Open to suggestions and ideas!!
 - 🎮 Avid Minecraft enjoyer and aspiring mod developer, also plays a variety of other games.
+- 🌐 I speak English, Mandarin, and a decent amount of French (6/7 in IB SL French!).
 - 🎧 I __***proudly***__ own 3 pairs of headphones.
+
 
 ---
 
