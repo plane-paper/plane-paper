@@ -22,7 +22,7 @@ Most of the projects (and the repos I own on GitHub) are things I do for fun, or
 ## 📌 Current Projects
 
 - 🔥 [**SnapLearn**](https://github.com/plane-paper/SnapLearn) - Using NLP techniques and language models to create custom curriculums from any textbook, based on the user's availability and the pre-requisite nature of the topics to be covered.
-- 🚀 [**Goblinator**](https://github.com/plane-paper/Goblinator) - Using LlaMa and the Reddit API to fetch brainrot content in JSON, fine-tune a language model to translate it to English and the other way around, and finally build an API and a Front-end to publish the app to users.
+- 🚀 [**Downbad**](https://github.com/plane-paper/Downbad) - Using basic speech recognition to track how attracted someone is to someone else, also some basic Flask backend and React front-end, making this into a web app.
 - 🎈[**Quicksilver**](https://github.com/plane-paper/Quicksilver) - Using sockets and pybluez to develop a lightweight, user-friendly, easily-scalable, file transfer system that involves auto-broadcast and seeking, and direct file transfer without using an intermediary or a database, both via Bluetooth and on the LAN.
 
 ## 📫 Get in Touch
