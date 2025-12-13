@@ -8,16 +8,16 @@ Most of the projects (and the repos I own on GitHub) are things I do for fun, or
 
 ## 🛠 Tech Stack
 
-- **Frontend:** React, H5, CSS, Typescript
-- **Backend:** JS, Django, Flask, Node.js, FastAPI, MCP
+- **Frontend:** React, H5, CSS, Node.js
+- **Backend:** JS/TS, Django, Flask, Node.js, FastAPI, MCP
 - **Scripting:** Powershell, Batch
 - **OOP:** C#, C++, Python
 - **Data Analysis and Visualization:** Pandas, NumPy, Matplot, MatLab, PyKrige, Cartopy
 - **Embedded Development:** STM 32, Rasp Pi, Arduino
-- **CI/CD**: YAML, GitHub Actions
+- **CI/CD**: YAML, GitHub Actions, GitLab CICD
 - **Machine Learning:** Tensorflow, Pytorch, SpaCy, SKLearn
-- **Database:** PostgreSQL, MySQL
-- **Others:** Docker, Git (obviously), VS, Anaconda, IntelliJ, Node/Yarn, etc
+- **Database:** PostgreSQL, MySQL, Redis
+- **Others:** Docker, Git (obviously), VS/VSC/PyCharm, Anaconda, IntelliJ, Node/Yarn, etc
 
 ## 📌 Current Projects
 
