@@ -22,7 +22,7 @@ Most of the projects (and the repos I own on GitHub) are things I do for fun, or
 ## 📌 Current Projects
 
 - 🔥 [**SnapLearn**](https://github.com/plane-paper/SnapLearn) - Using NLP techniques and language models to create custom curriculums from any textbook, based on the user's availability and the pre-requisite nature of the topics to be covered.
-- 🚀 [**Downbad**](https://github.com/plane-paper/Downbad) - Using basic speech recognition to track how attracted someone is to someone else, also some basic Flask backend and React front-end, making this into a web app.
+- 🚀 [**Reimburst**](https://github.com/plane-paper/reimburst) - A business-integretable automatic reimbursement system with RBAC and computer vision to automatically scan receipt items and categorize them.
 - 🎈[**Quicksilver**](https://github.com/plane-paper/Quicksilver) - Using sockets and pybluez to develop a lightweight, user-friendly, easily-scalable, file transfer system that involves auto-broadcast and seeking, and direct file transfer without using an intermediary or a database, both via Bluetooth and on the LAN.
 
 ## 📫 Get in Touch
