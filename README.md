@@ -36,7 +36,7 @@ Most of the projects (and the repos I own on GitHub) are things I do for fun, or
 
 - 💡 Currently considering porting all of my websites onto different hosts with React and a better backend messaging system support... Open to suggestions and ideas!!
 - 🎮 Avid Minecraft enjoyer and aspiring mod developer, also plays a variety of other games.
-- 🌐 I speak English, Mandarin, and a decent amount of French (6/7 in IB SL French!). I'm also trying to learn Cantonese with [Duolingo](https://www.duolingo.com/).
+- 🌐 I speak English, Mandarin, and a decent amount of French (6/7 in IB SL French!). I'm also trying to learn Cantonese with [Duolingo](https://www.duolingo.com/) and Japanese with [HeyJapan](https://japanese.heylearning.net/).
 - 🎧 I __***proudly***__ own 3 pairs of headphones.
 
 
