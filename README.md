@@ -1,8 +1,8 @@
-# Hi there!
-
-I'm Richard, a passionate bi(tri?)lingual developer exploring various fields in computer science. I love building innovative solutions and exploring new technologies to solve real-world problems.
+Hello! I'm Richard, a passionate bi(tri?)lingual developer exploring various fields in computer science. I love building innovative solutions and exploring new technologies to solve real-world problems.
 
 I speak English, Mandarin, and a decent amount of French (6/7 in IB SL). I'm also trying to learn Cantonese with [Duolingo](https://www.duolingo.com/) and Japanese with [HeyJapan](https://japanese.heylearning.net/).
+
+I hate runny eggs.
 
 ## Stack
 
@@ -24,7 +24,7 @@ I speak English, Mandarin, and a decent amount of French (6/7 in IB SL). I'm als
 
 ## Get in Touch
 
-- [My website and portfolio](https://richard-su.github.io/) is where you can find out more about me and my projects
+- [My website and portfolio](https://www.richardsu.org/) is where you can find out more about me and my projects
 - I occasionally post about my life on [my Instagram](https://www.instagram.com/plane_paper_rick/)
 - Check out [my LinkedIn](https://www.linkedin.com/in/ruiquansu) for career updates
 - You can also reach me at [r38su@uwaterloo.ca](mailto:r38su@uwaterloo.ca)
