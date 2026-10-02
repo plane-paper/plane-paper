@@ -1,8 +1,8 @@
-Hello! I'm Richard, a passionate bi(tri?)lingual developer exploring various fields in computer science. I love building innovative solutions and exploring new technologies to solve real-world problems.
-
-I speak English, Mandarin, and a decent amount of French (6/7 in IB SL). I'm also trying to learn Cantonese with [Duolingo](https://www.duolingo.com/) and Japanese with [HeyJapan](https://japanese.heylearning.net/).
+Hello! I'm Richard. I speak English, Mandarin, and French. I'm also trying to learn Cantonese with [Duolingo](https://www.duolingo.com/) and Japanese with [HeyJapan](https://japanese.heylearning.net/).
 
 I hate runny eggs.
+
+
 
 ## Stack
 
