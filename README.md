@@ -1,8 +1,8 @@
 Hello! I'm Richard. I speak English, Mandarin, and French. I'm also trying to learn Cantonese with [Duolingo](https://www.duolingo.com/) and Japanese with [HeyJapan](https://japanese.heylearning.net/).
 
-I hate runny eggs.
+![メイショウドトウです](meisho-doto.gif)
 
-
+Meisho Doto desu.
 
 ## Stack
 
